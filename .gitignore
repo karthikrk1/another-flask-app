@@ -102,3 +102,6 @@ ENV/
 
 # notes for self-learning. Not to be in git.
 notes.txt
+
+#PyCharm
+.idea/
