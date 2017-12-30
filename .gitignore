@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# notes for self-learning. Not to be in git.
+notes.txt
